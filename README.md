@@ -93,11 +93,13 @@ Make better data-driven decisions
 
 📂 Project Structure
 
-Churn_Analysis_Project/
+```text
+Churn_Analysis/
 │
-├── 📓 Churn_Analysis.ipynb
-├── 📊 dataset.csv
-├── 🗄️ churn_analysis.db
+├── 📓 Churn_analysis.ipynb
+├── 🗄️ customer_churn.db
+├── 📊 exported_churn_data.csv
+├── 📄 Anish_Mondal_Churn_Analysis_Presentation.pdf
 └── 📄 README.md
 
 
