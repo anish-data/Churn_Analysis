@@ -107,8 +107,8 @@ Churn_Analysis/
 
 This project was created as part of my Data Analytics learning journey to gain hands-on experience working with real-world style customer data and applying Python and SQL for business analysis.
 
-## 👨‍💻 Author
+👨‍💻 Author
 
-**Anish**  
+Anish Mondal
 B.Tech Computer Science & Engineering  
 Aspiring Data Analyst | Python | SQL | Data Analytics
