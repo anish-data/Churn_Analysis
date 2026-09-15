@@ -92,12 +92,14 @@ Develop targeted retention strategies
 Make better data-driven decisions
 
 📂 Project Structure
+
 Churn_Analysis_Project/
 │
 ├── 📓 Churn_Analysis.ipynb
 ├── 📊 dataset.csv
 ├── 🗄️ churn_analysis.db
 └── 📄 README.md
+
 
 🎓 Project Purpose
 
